@@ -1,4 +1,4 @@
-# MEAN stack with Angular 14 CRUD example
+# Managing Assessment Questions Fullstack Web Application
 
 Full-stack Web Application -> Angular + Node.js example with a CRUD Application. The back-end server uses Node.js + Express for REST APIs and connects with MongoDB database, front-end side is an Angular App with HTTPClient.
 
